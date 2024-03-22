@@ -1,1 +1,2 @@
-![Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[Pandas_Cheat_Sheet.pdf](https://github.com/sum1t-here/ML/files/14716737/Pandas_Cheat_Sheet.pdf)
